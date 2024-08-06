@@ -5,13 +5,41 @@ format:
   html:
     df-print: paged
     toc: true
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+text: もちろんです。以下は「アルフィン」という名前をテーマにした詩です。
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
   irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
   pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
   deserunt mollit anim id est laborum.
-title: Another blogpost example
+title: アルフィンの詩
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+もちろんです。以下は「アルフィン」という名前をテーマにした詩です。
+
+---
+
+**アルフィンの詩**
+
+静かな夜空に星が輝く  
+アルフィンという名が、星たちと共に煌めく  
+優しい光が心に触れ、深い意味を教えてくれる
+
+風がささやく、柔らかなメロディ  
+その響きはアルフィンの名に重なり  
+誰もが知っている、見えない力を感じる
+
+山々の頂きにそびえるように  
+アルフィンの名も高く、誇り高い  
+どんな困難も、真心で乗り越える力がある
+
+川の流れのように、清らかで穏やか  
+その名前が持つ、静かな強さを  
+アルフィンのように、私たちも歩んでいく
+
+夜が明けるとともに、新しい希望が生まれる  
+アルフィンの名は、希望の象徴として  
+私たちの心に、光を灯し続ける
+
+---
+
+この詩が気に入っていただけると嬉しいです。
