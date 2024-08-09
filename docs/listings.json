@@ -2,10 +2,11 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/another_post.html",
-      "/posts/post.html",
-      "/posts/post_with_code.html",
-      "/posts/recipe.html"
+      "/posts/recipe.html",
+      "/posts/NEW_THOUGHTS/index.html",
+      "/posts/olympics24/index.html",
+      "/posts/ente_keralam/index.html",
+      "/posts/movie_Interstellar/index.html"
     ]
   }
 ]

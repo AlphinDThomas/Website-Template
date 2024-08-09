@@ -24,9 +24,9 @@ website:
       - icon: github
         text: Github
         url: https://github.com
-      - icon: twitter
-        text: Twitter
-        url: https://twitter.com
+      - icon: linkedin
+        text: Linkedin
+        url: https://www.linkedin.com/in/alphin-d-thomas-a52b1b300/
       - icon: Email
       - text: "Email"
         url: mailto:siju.swamy@saintgits.org

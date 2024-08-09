@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "My personal webpage",
-    "section": "",
-    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions.my hobbies are"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nアルフィンの詩\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post_with_code.html",
-    "href": "posts/post_with_code.html",
-    "title": "A sample work",
-    "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
-  },
-  {
     "objectID": "workshops.html",
     "href": "workshops.html",
     "title": "Workshops Attended",
@@ -28,17 +7,115 @@
     "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Personal Webpage",
+    "objectID": "posts/olympics24/index.html",
+    "href": "posts/olympics24/index.html",
+    "title": "Paris 2024: A Modern Olympic Experience Blending Historic Charm and Sustainability",
     "section": "",
-    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "The Paris 2024 Olympic Games, set from July 26 to August 11, will be a spectacular fusion of historic charm and modern innovation. Marking Paris’s third time hosting the Olympics, following events in 1900 and 1924, this edition promises to be both unique and memorable. The city’s iconic landmarks, such as the Eiffel Tower and the Louvre, will serve as a stunning backdrop for the Games. Paris 2024 is committed to a compact and sustainable approach, with events held across central locations to minimize environmental impact and allow spectators to easily experience multiple events in a single day.\nSustainability will be a cornerstone of the Paris 2024 Games, with organizers striving to set a new standard for eco-friendly Olympics. The plan includes using existing and temporary venues to cut down on construction waste, promoting public transportation, and ensuring that all Olympic facilities are energy-efficient. These measures are aimed at creating a lasting positive impact on the environment while showcasing green innovations in sports.\nIn addition to its focus on sustainability, Paris 2024 will celebrate a diverse range of sports and cultural events. New sports like breakdancing will join traditional Olympic disciplines, reflecting the evolving nature of athletic competition. The Games will emphasize inclusivity and accessibility, ensuring broad participation and engagement. Cultural festivals and community initiatives will highlight French and European heritage, offering a rich, immersive experience that connects the Olympics with the vibrant life of Paris."
   },
   {
-    "objectID": "posts/post.html",
-    "href": "posts/post.html",
-    "title": "アルフィンの詩",
+    "objectID": "posts/movie_Interstellar/index.html",
+    "href": "posts/movie_Interstellar/index.html",
+    "title": "Interstellar: A Journey Beyond Time and Space",
     "section": "",
-    "text": "もちろんです。以下は「アルフィン」という名前をテーマにした詩です。\n\nアルフィンの詩\n静かな夜空に星が輝く\nアルフィンという名が、星たちと共に煌めく\n優しい光が心に触れ、深い意味を教えてくれる\n風がささやく、柔らかなメロディ\nその響きはアルフィンの名に重なり\n誰もが知っている、見えない力を感じる\n山々の頂きにそびえるように\nアルフィンの名も高く、誇り高い\nどんな困難も、真心で乗り越える力がある\n川の流れのように、清らかで穏やか\nその名前が持つ、静かな強さを\nアルフィンのように、私たちも歩んでいく\n夜が明けるとともに、新しい希望が生まれる\nアルフィンの名は、希望の象徴として\n私たちの心に、光を灯し続ける\n\nこの詩が気に入っていただけると嬉しいです。"
+    "text": "Interstellar: A Journey Beyond Time and Space\nChristopher Nolan’s 2014 film Interstellar is a cinematic odyssey that pushes the boundaries of science fiction and explores the profound depths of human emotion. Set in a future where Earth is on the brink of collapse, the film follows a group of astronauts who embark on a daring mission through a wormhole in search of a new home for humanity.\nAt its core, Interstellar is a story about love and sacrifice. Cooper, played by Matthew McConaughey, is a former NASA pilot turned farmer who leaves his family behind to pilot the mission. His journey through the cosmos is driven not just by a sense of duty but by his love for his daughter, Murph, who is left behind on Earth. This relationship is the emotional heart of the film, and McConaughey’s performance is both tender and powerful.\nNolan’s film delves deep into complex scientific concepts, including black holes, time dilation, and the theory of relativity, all while keeping the emotional stakes front and center. The depiction of a black hole, Gargantua, is particularly notable for its scientific accuracy, thanks to the collaboration with physicist Kip Thorne. The visual representation of Gargantua and the concept of time as a dimension are not only breathtaking but also serve to reinforce the film’s themes of love transcending space and time.\nThe film’s visual and auditory elements are nothing short of spectacular. Hoyte van Hoytema’s cinematography captures both the grandiose scale of space and the intimate moments of human connection with equal skill. Hans Zimmer’s score, with its hauntingly beautiful organ music, amplifies the emotional resonance of the story, creating a sense of awe and wonder that lingers long after the credits roll.\nOne of the most compelling aspects of Interstellar is its exploration of humanity’s place in the universe. The film challenges viewers to think about our role in the cosmos and the potential for human resilience and innovation. It’s a call to action, urging us to take care of our planet while also reaching for the stars.\nDespite its complex narrative and scientific jargon, Interstellar succeeds in being both a thrilling space adventure and a deeply moving human drama. It asks big questions about our existence, the nature of time, and the power of love. Whether you’re captivated by its scientific rigor or touched by its emotional depth, Nolan’s masterpiece leaves a lasting impression and a sense of wonder about the universe."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Eat the peak authentic biriyani\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnlocking the Power of Quarto: Transform Your Content Creation Game\n\n\n\n\n\n\nviews\n\n\n\n\n\n\n\n\n\nAug 5, 3099\n\n\nAlphin D Thomas\n\n\n\n\n\n\n\n\n\n\n\n\nParis 2024: A Modern Olympic Experience Blending Historic Charm and Sustainability\n\n\n\n\n\n\nviews\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nAlphin D Thomas\n\n\n\n\n\n\n\n\n\n\n\n\nഎന്റെ നാട്\n\n\n\n\n\n\nനാട്\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAlphin D Thomas\n\n\n\n\n\n\n\n\n\n\n\n\nInterstellar: A Journey Beyond Time and Space\n\n\n\n\n\n\nreview\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAlphin D Thomas\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My personal webpage",
+    "section": "",
+    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions.my hobbies are"
+  },
+  {
+    "objectID": "index.html#im-currently-learning",
+    "href": "index.html#im-currently-learning",
+    "title": "My Personal Webpage",
+    "section": "🌱 I’m currently learning",
+    "text": "🌱 I’m currently learning\n- Programming languages like Python, Java and C to enhance my technical skills.- The basics of ML and Computational Linear algebra"
+  },
+  {
+    "objectID": "index.html#how-to-reach-me",
+    "href": "index.html#how-to-reach-me",
+    "title": "My Personal Webpage",
+    "section": "📫 How to reach me:",
+    "text": "📫 How to reach me:\n- alphinonline0508@gmail.com- LinkedIn messaging ## 😄 Pronouns: He/Him"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "My Personal Webpage",
+    "section": "📚 Education",
+    "text": "📚 Education\n\nB.Tech in Computer Science and Engineering\nSaintgits College of Engineering, Kottayam, Kerala\nAugust 2023 – Present\n\n1st Sem SGPA: 9.18/10\n2nd Sem SGPA: 8.6/10\n\nClass 11th & 12th\nSt.John’s HSS Mattom,Mavelikara,Alappuzha, Kerala\nAugust 2021 – March 2023\n\nMarks: 96.9%"
+  },
+  {
+    "objectID": "index.html#internships-and-projects",
+    "href": "index.html#internships-and-projects",
+    "title": "My Personal Webpage",
+    "section": "🛠️ Internships and Projects",
+    "text": "🛠️ Internships and Projects\n\nInternship in Artificial Intelligence\nQNAYDS LLP\nNovember 2023"
+  },
+  {
+    "objectID": "index.html#achievements-and-activities",
+    "href": "index.html#achievements-and-activities",
+    "title": "My Personal Webpage",
+    "section": "🏆 Achievements and Activities",
+    "text": "🏆 Achievements and Activities\n\nState level mathematics fair\nNovember 2022\nSecond Prize in Saintgits Exponentia’23\nDecember 2023"
+  },
+  {
+    "objectID": "index.html#workshops-and-seminars",
+    "href": "index.html#workshops-and-seminars",
+    "title": "My Personal Webpage",
+    "section": "🧠 Workshops and Seminars",
+    "text": "🧠 Workshops and Seminars\n\nProject Management Institute – WINGS 2023 Conclave\nSeptember 2023"
+  },
+  {
+    "objectID": "index.html#socials",
+    "href": "index.html#socials",
+    "title": "My Personal Webpage",
+    "section": "🌐 Socials:",
+    "text": "🌐 Socials:\nlinkedin: https://www.linkedin.com/in/alphin-d-thomas-a52b1b300/"
+  },
+  {
+    "objectID": "index.html#github-trophies",
+    "href": "index.html#github-trophies",
+    "title": "My Personal Webpage",
+    "section": "🏆 GitHub Trophies",
+    "text": "🏆 GitHub Trophies\n\n\n✍️ Random Dev Quote\n\n\n\n🔝 Top Contributed Repo"
+  },
+  {
+    "objectID": "posts/ente_keralam/index.html",
+    "href": "posts/ente_keralam/index.html",
+    "title": "എന്റെ നാട്",
+    "section": "",
+    "text": "കേരളം, നമ്മുടെ സൗഹൃദം നിറഞ്ഞ ദേശം, സുന്ദരമായ പ്രകൃതിദർശനങ്ങൾ, സമ്പന്നമായ സംസ്കാരം, പ്രഗതിശീലിത ജനസംഘം എന്നിവയുടെ സംയോജനം ആണ്. നമ്മുടെ നാട്ടുവീട്, ഒരു ഹൃദയമായും, ഒരു ശാന്തമായ ധ്യാനമെന്ന നിലയിൽ, എല്ലായ്പ്പോഴും മനസ്സിൽ തളർന്നിരിക്കുന്നു.\nകേരളത്തിന്റെ സുന്ദരത നാം അനുഭവിക്കുന്ന എല്ലാ സീസണുകളും അത് തനതു വിശേഷിപ്പിക്കുന്ന പച്ചപ്പും പെയ്യും പുഴകളും കൊണ്ട് അത്ഭുതിപ്പിക്കും. ഇടുക്കി, മunnar, ആലപ്പുഴ, കൊച്ചി, എന്നിവിടങ്ങൾ തന്നെ അതിന്റെ പ്രകൃതിദർശനത്തിന്റെ ഉദാഹരണങ്ങളാണ്. പാടങ്ങളും പുഴകളും, പഞ്ചത്തൊണ്ണൂറ്റി ഹിലുകൾ, വെളുത്ത പ sands, നമുക്ക് ഒരുപാട് സുഖം നൽകുന്നു.\nഅവിടുത്തെ സംസ്കാരവും, ഭക്ഷണ ശീലവും, പാട്ടും നൃത്തം, ഹരിത സിദ്ധാന്തങ്ങളും നമ്മെ ആകർഷിക്കുന്നു. കസവു, സാദ്യ, ഏലയേക്കറി, ചേന തുടങ്ങിയ വൈവിധ്യമാർന്ന വിഭവങ്ങൾ, ഓരോ പ്രാവശ്യം തന്നേ നമുക്ക് പുതിയ രുചികളുമായും നന്മയുമായും കുത്തിവയ്ക്കുന്നു. വിശ്വസിക്കപ്പെടുന്ന തരത്തിൽ, കേരളം ഒരു മാജിക് രാജ്യമാണ്, ഇവിടെ ജീവിതത്തിന്റെ എളിമകളും സമ്പത്ത് വ്യവസ്ഥകളും എല്ലാം അനന്തരമുണ്ട്.\nകേരളത്തിന്റെ ആദായവും, അവരുടെ സന്തോഷവും, മനസ്സാക്ഷിയും, പ്രതീക്ഷകളും ഒരു ആകർഷണത്തിന്റെ ഭാഗമാണ്. സഹോദരബഹുമാനത്തിനും ജീവിതത്തിന്റെ സന്തോഷത്തിനും കേരളം ഇന്നും എങ്ങിനെയോ ഒരുപാട് മുഖ്യകാരണങ്ങൾ ആണ്.\nനല്ല യാത്രയ്ക്കും, സന്തോഷത്തിനും, സുഖത്തിനും, ഒന്നും കുറവില്ലാത്ത ഈ നാട്ടുവീട്ടിലേക്ക് ഒരു നിമിഷം വീണ്ടും പോവാൻ വേണ്ടത്, അതിന്റെ മൃദുലമായ മഴക്കെടുപ്പുകളും, പച്ച പാടുകളും, സ്നേഹസ്നേഹം നിറഞ്ഞ ജനസമൂഹവും നമ്മെ പ്രചോദിപ്പിക്കുന്നു.\nഎല്ലാവർക്കും എന്റെ നാട്ടുവീടിന്റെ സാന്നിധ്യം പൂർണ്ണമായും അനുഭവിക്കാൻ കഴിയട്ടെ!"
+  },
+  {
+    "objectID": "posts/NEW_THOUGHTS/index.html",
+    "href": "posts/NEW_THOUGHTS/index.html",
+    "title": "Unlocking the Power of Quarto: Transform Your Content Creation Game",
+    "section": "",
+    "text": "Welcome to the World of Quarto! Today, we’ll explore how Quarto can revolutionize your content creation. This next-generation tool supports Markdown, LaTeX, and integrates seamlessly with data science tools, making it ideal for creating dynamic and interactive documents. Quarto offers flexibility by allowing you to publish in various formats such as HTML, PDF, and Word, and it enhances engagement with interactive widgets and visualizations. Whether you’re working on a report, blog post, or data analysis, Quarto’s features cater to diverse needs.\nGetting started with Quarto is straightforward. Simply install it from the official website and set up a new project using a text editor or an IDE like RStudio. Dive into the documentation and tutorials to familiarize yourself with its capabilities. By leveraging Quarto, you can elevate your content with interactive elements and robust formatting options. Try it out and see how it can enhance your next project!"
+  },
+  {
+    "objectID": "posts/recipe.html",
+    "href": "posts/recipe.html",
+    "title": "Eat the peak authentic biriyani",
+    "section": "",
+    "text": "بالطبع! إليك ترجمة وصفة الدجاج البرياني إلى العربية:\n\n\nوصفة دجاج البرياني\n\nالمكونات\n\nلتتبيل الدجاج:\n\n1 كغ قطع دجاج (يفضل أن تكون على العظم)\n1 كوب زبادي\n2 ملعقتان كبيرتان معجون زنجبيل وثوم\n1 ملعقة كبيرة مسحوق الفلفل الأحمر\n1/2 ملعقة صغيرة مسحوق الكركم\n1 ملعقة صغيرة مسحوق غارام ماسالا\n1 ملعقة كبيرة عصير ليمون\nملح حسب الذوق\n\n\n\nللأرز البرياني:\n\n2 كوب أرز بسمتي\n4 أكواب ماء\n3-4 حبات هيل\n4-5 حبات قرنفل\n1 ورقة غار\n1 عود قرفة\nملح حسب الذوق\n\n\n\nللبرياني:\n\n3 بصلات كبيرة، مفرومة رفيعاً\n2-3 فلفل أخضر، مقطع طولياً\n2 طماطم، مفرومة\n1/2 كوب أوراق كزبرة طازجة، مفرومة\n1/2 كوب أوراق نعناع طازجة، مفرومة\n2 ملعقتان كبيرتان معجون زنجبيل وثوم\n1/2 ملعقة صغيرة مسحوق الكركم\n1 ملعقة صغيرة مسحوق الفلفل الأحمر\n1 ملعقة صغيرة بذور كمون\n1 ملعقة صغيرة مسحوق الكزبرة\n1/2 كوب حليب\nقليل من خيوط الزعفران (اختياري، منقوعة في الحليب الدافئ)\n3 ملعقات كبيرة سمنة أو زيت نباتي\n1/2 كوب بصل مقلي (اختياري، للتزيين)\nكزبرة ونعناع طازج إضافي للتزيين\n\n\n\n\n\nالتعليمات\n\n1. تتبيل الدجاج:\n\nخلط المكونات: في وعاء، امزج الزبادي، معجون الزنجبيل والثوم، مسحوق الفلفل الأحمر، مسحوق الكركم، مسحوق الغارام ماسالا، عصير الليمون، والملح.\nتتبيل الدجاج: أضف قطع الدجاج إلى التتبيلة وامزج جيداً. غطِ الوعاء واتركه في الثلاجة لمدة ساعة على الأقل، ويفضل طوال الليل.\n\n\n\n2. تحضير الأرز:\n\nغسل الأرز: اغسل أرز البسمتي تحت الماء البارد حتى يصبح الماء صافيًا. نقع الأرز في الماء لمدة 30 دقيقة، ثم صفيه.\nطهي الأرز: في قدر كبير، اغلي 4 أكواب من الماء. أضف حبات الهيل، القرنفل، ورقة الغار، عود القرفة، والملح.\nإضافة الأرز: أضف الأرز المنقوع والمصفى إلى الماء المغلي. اطبخ حتى ينضج الأرز بنسبة 70% (يجب أن يكون لا يزال متماسكًا). صفي الأرز واتركه جانباً.\n\n\n\n3. طهي الدجاج:\n\nتسخين الزيت: في قدر كبير وقاعدته ثقيلة، سخن السمنة أو الزيت النباتي على نار متوسطة.\nقلي البصل: أضف البصل المفروم واطبخه حتى يصبح لونه ذهبياً. أزل نصف البصل واتركه جانباً للتزيين.\nإضافة الروائح: أضف معجون الزنجبيل والثوم والفلفل الأخضر إلى القدر. اطبخ لمدة دقيقة حتى تخرج الرائحة.\nطهي الطماطم: أضف الطماطم المفرومة واطبخ حتى تصبح ناعمة وتبدأ الزيوت بالظهور.\nإضافة التوابل: أضف مسحوق الكركم، مسحوق الفلفل الأحمر، بذور الكمون، مسحوق الكزبرة واطبخ لبضع دقائق.\nإضافة الدجاج: أضف الدجاج المتبل إلى القدر. اطبخ على نار متوسطة حتى ينضج الدجاج ويبدأ الزيت بالظهور (حوالي 15-20 دقيقة). أضف أوراق الكزبرة والنعناع الطازجة في آخر دقائق الطهي.\n\n\n\n4. طبقات البرياني:\n\nتسخين الفرن (اختياري): سخن الفرن إلى 180 درجة مئوية (350 درجة فهرنهايت) إذا كنت تخطط لاستخدامه لطهي البرياني.\nالترتيب: في نفس القدر أو وعاء فرن، ضع نصف كمية الأرز المطبوخ فوق خليط الدجاج. رش نصف كمية البصل المقلي، والكزبرة، والنعناع. أضف طبقة أخرى من الأرز المتبقي، ثم ضع البصل المقلي المتبقي، والكزبرة، والنعناع.\nحليب الزعفران (اختياري): صب حليب الزعفران فوق الطبقة العليا من الأرز.\nالطهي بالدم: غطِ الوعاء بغطاء محكم أو سده بورق الألمنيوم. اطبخ على نار هادئة لمدة 20-30 دقيقة لتسمح للنكهات بالامتزاج. بدلاً من ذلك، يمكنك وضع الوعاء في الفرن المسخن واخبزه لمدة 20-25 دقيقة.\n\n\n\n5. التقديم:\n\nتخفيف الأرز برفق: بعد الطهي، قم بتفريغ البرياني برفق باستخدام شوكة.\nالتزيين: زين بالبصل المقلي الإضافي، وأوراق الكزبرة والنعناع إذا رغبت.\nالاستمتاع: قدم البرياني ساخناً مع الرايتا، السلطة، أو المخلل.\n\n\nأتمنى أن تكون هذه الترجمة مفيدة وتساعدك في تحضير دجاج البرياني!"
   }
 ]
